@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("testing code...\n");
+	printf("12345\n");
+	printf("23455\n");
 	return 0;
 }
