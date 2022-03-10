@@ -109,3 +109,8 @@ LoL|218|3
 [百度搜索](https://www.baidu.com "跳转到百度")
 
 [Bilibili](https://www.bilibili.com "跳转到哔哩哔哩")
+
+
+## 文章中插入图片
+
+![WallPaper](C://Users//Sensensensensen//Desktop//wallpaper.png "本地壁纸")
