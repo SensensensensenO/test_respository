@@ -78,7 +78,7 @@ LoL|218|3
 
 ```bash
    sudo su
-   echo "出书字符串"
+   echo "输出字符串"
    cd "path"
 ```
 
