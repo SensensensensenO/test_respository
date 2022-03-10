@@ -76,5 +76,28 @@ LoL|218|3
   }
 ```
 
+```bash
+   sudo su
+   echo "出书字符串"
+   cd "path"
+```
 
+```cpp
+  #include <iostream>
+  using namespace std;
+
+  int main(void)
+  {
+	cout<<"输出字符串"<<endl;
+  }
+```
+
+```python
+  import os
+  def test():
+  	print("this message is from test");
+
+  if__name__ == '__main__':
+  	tesst()
+```
 
